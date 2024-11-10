@@ -1,0 +1,4 @@
+# Ignore Python files created from running the program
+*.pyc
+*.pyo
+__pycache__/
